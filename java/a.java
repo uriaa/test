@@ -1,6 +1,7 @@
 class a {
 	void aaa() {
-		int i = 0;
+		//bug fix 1
+		int i = 1;
 	}
 	
 	void bbb() {
