@@ -5,6 +5,7 @@ class a {
 	}
 	
 	void bbb() {
-		int n = 1;
+		//bug fix 2
+		int n = 20;
 	}
 }
