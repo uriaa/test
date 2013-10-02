@@ -4,6 +4,6 @@ class a {
 	}
 	
 	void bbb() {
-		
+		int n = 1;
 	}
 }
