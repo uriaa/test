@@ -1,3 +1,5 @@
+import whatever;
+
 class a {
 	void aaa() {
 		int i = 0;
