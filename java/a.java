@@ -2,10 +2,12 @@ import whatever;
 
 class a {
 	void aaa() {
-		int i = 0;
+		//bug fix 1
+		int i = 1;
 	}
 	
 	void bbb() {
-		int n = 1;
+		//bug fix 2
+		int n = 20;
 	}
 }
